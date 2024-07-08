@@ -9,7 +9,6 @@ let arr =[1,2,3,4,5,6]
 
 // let new_array = arr.join()
 // console.log(new_array);
-
 console.log(`Original array is: ${arr}`);
 
 let arr3 = arr.slice(1,3)
